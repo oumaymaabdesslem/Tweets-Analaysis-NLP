@@ -1,19 +1,17 @@
 # Tweets-Analaysis-NLP
 
 Goals :
-• Master the twitter API for extracting tweets
-• Master the NLP (natural language processing) part with NLTK in Python
-• Apply the principles of data cleaning
-• Classify tweets: group together tweets that are similar.
-
-* [Dropwizard] - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* Master the twitter API for extracting tweets
+* Master the NLP (natural language processing) part with NLTK in Python
+* Apply the principles of data cleaning
+* Classify tweets: group together tweets that are similar.
 
 
 ## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+first should be created twitter account
+you can consult the following links: 
+* https://developer.twitter.com/en/docs/twitter-api 
+* https://developer.twitter.com/en
 
 ### Prerequisites
 
