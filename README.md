@@ -16,10 +16,10 @@ you can consult the following links:
 
 
 ## Extraction twitter data (twwepy + pandas)
-### Importing owr libraries
-### Creating a twitter App
-### Tweets Extraction (11356 tweets)
-### Creating a DataFrame of each tweets then conctenate all the tweets and save in CSV file
+### * Importing owr libraries
+### * Creating a twitter App
+### * Tweets Extraction (11356 tweets)
+### * Creating a DataFrame of each tweets then conctenate all the tweets and save in CSV file
 
 
 
@@ -32,17 +32,14 @@ you can consult the following links:
           * Remove URLs
           * Converting all tweets to lower case
           * Remove Number
-          .....
+         
 
 ## Data Pre-Processing : NLP( Natural Languages Processsing)
-###### NLTK is a powerful Python package that provides a set of diverse natural languages algorithms. It is free, opensource, easy to use, large community, and well documented. NLTK consists of the most common algorithms such as tokenizing, part-of-speech tagging, stemming, sentiment analysis, topic segmentation, and named entity recognition. NLTK helps the computer to analysis, preprocess, and understand the written text.
+#### NLTK is a powerful Python package that provides a set of diverse natural languages algorithms. It is free, opensource, easy to use, large community, and well documented. NLTK consists of the most common algorithms such as tokenizing, part-of-speech tagging, stemming, sentiment analysis, topic segmentation, and named entity recognition. NLTK helps the computer to analysis, preprocess, and understand the written text.
 ````
 !pip install nltk
 ````
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1535125878/NLTK3_zwbdgg.png
 
 ## Contributing
 
