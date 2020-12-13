@@ -1,6 +1,10 @@
 # Tweets-Analaysis-NLP
 
-One Paragraph of project description goes here
+Goals :
+• Master the twitter API for extracting tweets
+• Master the NLP (natural language processing) part with NLTK in Python
+• Apply the principles of data cleaning
+• Classify tweets: group together tweets that are similar.
 
 ## Getting Started
 
