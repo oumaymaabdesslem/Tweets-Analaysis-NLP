@@ -1,4 +1,5 @@
 # Tweets-Analaysis-NLP
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oumaymaabdesslem/Tweets-Analaysis-NLP/main?filepath=TweetsAnalysis%26SentimentsAnalysisTweets.ipynb)
 
 Goals :
 * Master the twitter API for extracting tweets
