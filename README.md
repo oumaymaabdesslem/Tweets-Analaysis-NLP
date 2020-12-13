@@ -35,6 +35,7 @@ you can consult the following links:
           .....
 
 ## Data Pre-Processing : NLP( Natural Languages Processsing)
+###### NLTK is a powerful Python package that provides a set of diverse natural languages algorithms. It is free, opensource, easy to use, large community, and well documented. NLTK consists of the most common algorithms such as tokenizing, part-of-speech tagging, stemming, sentiment analysis, topic segmentation, and named entity recognition. NLTK helps the computer to analysis, preprocess, and understand the written text.
 ````
 !pip install nltk
 ````
