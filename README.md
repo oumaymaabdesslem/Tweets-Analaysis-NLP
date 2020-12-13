@@ -77,6 +77,8 @@ It is called a “bag” of words, because any information about the order or st
 
 
 ## 4- Modeling Using K-means Clustering
+ Finding the optimal number of clusters using the elbow in the graph is called the Elbow method.
+ ![elbow](elbow.png)
 ## 5- Visualization and basic statistic
 ## 6- Analysis Sentiments
 ![Nltk](percentage.png)
