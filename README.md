@@ -39,7 +39,7 @@ you can consult the following links:
 ````
 !pip install nltk
 ````
-https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1535125878/NLTK3_zwbdgg.png
+
 
 ## Contributing
 
