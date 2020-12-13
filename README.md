@@ -15,7 +15,7 @@ you can consult the following links:
 
 
 
-## Extraction twitter data (twwepy + pandas)
+## 1- Extraction twitter data (twwepy + pandas)
 ### * Importing owr libraries
 ### * Creating a twitter App
 ### * Tweets Extraction (11356 tweets)
@@ -23,7 +23,7 @@ you can consult the following links:
 
 
 
-## processing tweets
+## 2- processing tweets
 
 ### Drop Duplicates
 ### Cleaning tweets :
@@ -34,7 +34,7 @@ you can consult the following links:
           * Remove Number
          
 
-## Data Pre-Processing : NLP( Natural Languages Processsing)
+## 3-  Data Pre-Processing : NLP( Natural Languages Processsing)
 #### NLTK is a powerful Python package that provides a set of diverse natural languages algorithms. It is free, opensource, easy to use, large community, and well documented. NLTK consists of the most common algorithms such as tokenizing, part-of-speech tagging, stemming, sentiment analysis, topic segmentation, and named entity recognition. NLTK helps the computer to analysis, preprocess, and understand the written text.
 ````
 !pip install nltk
@@ -75,8 +75,8 @@ A bag-of-words is a representation of text that describes the occurrence of word
 It is called a “bag” of words, because any information about the order or structure of words in the document is discarded. The model is only concerned with whether known words occur in the document, not where in the document.
 
 
-## Modeling Using K-means Clustering
-## Visualization and basic statistic
-## Analysis Sentiments
+## 4- Modeling Using K-means Clustering
+## 5- Visualization and basic statistic
+## 6- Analysis Sentiments
 
 
