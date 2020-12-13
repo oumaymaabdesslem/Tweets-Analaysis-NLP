@@ -42,26 +42,41 @@ you can consult the following links:
 ![Nltk](NLTK3_zwbdgg.png)
 
 
-## Contributing
+## Tokenization
+#### Tokenization is the first step in text analytics. The process of breaking down a text paragraph into smaller chunks such as words or sentence is called Tokenization. Token is a single entity that is building blocks for sentence or paragraph.
+ * Sentence Tokenization : Sentence tokenizer breaks text paragraph into sentences.
+ * Word Tokenization : Word tokenizer breaks text paragraph into words.
+ 
+## Stopwords
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+#### Stopwords considered as noise in the text. Text may contain stop words such as is, am, are, this, a, an, the, etc. In NLTK for removing stopwords, you need to create a list of stopwords and filter out your list of tokens from these words.
 
-## Versioning
+## Lexicon Normalization
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+#### Lexicon normalization considers another type of noise in the text. For example, connection, connected, connecting word reduce to a common word "connect". It reduces derivationally related forms of a word to a common root word.
 
-## Authors
+### Stemming :
+Stemming is a process of linguistic normalization, which reduces words to their word root word or chops off the derivational affixes. For example, connection, connected, connecting word reduce to a common word "connect".
+### Lemmatization : 
+Lemmatization reduces words to their base word, which is linguistically correct lemmas. It transforms root word with the use of vocabulary and morphological analysis. Lemmatization is usually more sophisticated than stemming. Stemmer works on an individual word without knowledge of the context. For example, The word "better" has "good" as its lemma. This thing will miss by stemming because it requires a dictionary look-up.
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+## 
+ ### Create Dictionary refers to the frequency of this word in tweets (WordFrequency) 
+ ### Get Max , Min , Mean occurance of word
+ ### Create WordCloud
+ ### Create the Bag Of Word Model (Vectorization)
+  A bag-of-words model, or BoW for short, is a way of extracting features from text for use in modeling, such as with machine learning algorithms.
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+A bag-of-words is a representation of text that describes the occurrence of words within a document. It involves two things:
 
-## License
+* A vocabulary of known words.
+* A measure of the presence of known words.
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+It is called a “bag” of words, because any information about the order or structure of words in the document is discarded. The model is only concerned with whether known words occur in the document, not where in the document.
 
-## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+## Modeling Using K-means Clustering
+## Visualization and basic statistic
+## Analysis Sentiments
+
+
