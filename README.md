@@ -39,6 +39,7 @@ you can consult the following links:
 ````
 !pip install nltk
 ````
+![Nltk](NLTK3_zwbdgg.png)
 
 
 ## Contributing
