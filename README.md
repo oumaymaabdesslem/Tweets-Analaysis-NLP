@@ -23,11 +23,21 @@ you can consult the following links:
 
 
 
-## Deployment
+## processing tweets
 
-Add additional notes about how to deploy this on a live system
+### Drop Duplicates
+### Cleaning tweets :
+          * Remove Punctuation
+          * Remove Emoji
+          * Remove URLs
+          * Converting all tweets to lower case
+          * Remove Number
+          .....
 
-## Built With
+## Data Pre-Processing : NLP( Natural Languages Processsing)
+````
+!pip install nltk
+````
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
