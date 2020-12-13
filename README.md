@@ -64,6 +64,7 @@ Lemmatization reduces words to their base word, which is linguistically correct 
  ### Create Dictionary refers to the frequency of this word in tweets (WordFrequency) 
  ### Get Max , Min , Mean occurance of word
  ### Create WordCloud
+ ![Nltk](wordcloud.png)
  ### Create the Bag Of Word Model (Vectorization)
   A bag-of-words model, or BoW for short, is a way of extracting features from text for use in modeling, such as with machine learning algorithms.
 
@@ -78,5 +79,6 @@ It is called a “bag” of words, because any information about the order or st
 ## 4- Modeling Using K-means Clustering
 ## 5- Visualization and basic statistic
 ## 6- Analysis Sentiments
+![Nltk](percentage.png)
 
 
