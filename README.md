@@ -20,7 +20,7 @@ you can consult the following links:
 ### * Importing owr libraries
 ### * Creating a twitter App
 ### * Tweets Extraction (11356 tweets)
-### * Creating a DataFrame of each tweets then conctenate all the tweets and save in CSV file
+### * Creating a DataFrame of each tweets then concatenate all the tweets and save in CSV file
 
 
 
